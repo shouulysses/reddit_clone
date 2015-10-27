@@ -1,0 +1,24 @@
+{
+  "name": "angular_app",
+  "authors": [
+    "shouulysses <anythinghk@hotmail.com>"
+  ],
+  "description": "exercise about angularJS and rails",
+  "main": "angular_app",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "homepage": "nil",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+
+}
