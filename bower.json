@@ -1,24 +1,18 @@
 {
-  "name": "angular_app",
-  "authors": [
-    "shouulysses <anythinghk@hotmail.com>"
-  ],
-  "description": "exercise about angularJS and rails",
-  "main": "angular_app",
-  "moduleType": [
-    "globals"
-  ],
-  "keywords": [
-    "angular"
-  ],
+  "name": "flapper-news",
+  "version": "0.0.0",
   "license": "MIT",
-  "homepage": "nil",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ]
-
+  ],
+  "dependencies": {
+    "angular": "~1.3.14",
+    "angular-ui-router": "~0.2.13",
+    "bootstrap": "~3.3.2",
+    "angular-devise": "~1.0.2"
+  }
 }
